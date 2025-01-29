@@ -7,3 +7,6 @@ This project involves the analysis of COVID-19 data, including cases, deaths, an
 - **`CovidDeaths`**: Contains data on COVID-19 deaths, including location, date, total cases, total deaths, and population.
 - **`CovidVaccinations`**: Contains data on vaccination progress, including new vaccinations by location and date.
 - **SQL Queries**: Various queries to analyze the data and generate insights, such as infection rates, death percentages, and vaccination statistics.
+
+## Author
+[Tridha Mukherjee](https://github.com/TridhaMukherjee)
